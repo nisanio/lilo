@@ -6,6 +6,11 @@ Small little text editor
 
 lilo.py **filename**
 
+## Dependencies
+
+### python3. 
+    If you are in macOS, don't use the python shipped with the OS, that's usually python2
+
 ## Pendings
 
 1. CTRL, ALT keys detection
